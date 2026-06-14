@@ -9,6 +9,19 @@
     "status": "open",
     "createdBy": "bot",
     "id": "1781471509980",
-    "participants": []
+    "participants": [
+      {
+        "id": "1152573563958730832",
+        "username": "clud3",
+        "tag": "clud3#0",
+        "discriminator": "0",
+        "avatar": "5470f83114d2cacc94dfc35172306558",
+        "roles": [
+          "1515748419820589148"
+        ],
+        "checkedIn": false,
+        "registeredAt": 1781471534943
+      }
+    ]
   }
 ]
